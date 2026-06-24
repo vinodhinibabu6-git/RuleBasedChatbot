@@ -32,3 +32,6 @@ Bot: Python is a programming language.
 
 You: bye
 Bot: Goodbye!
+## Output Screenshot
+
+![Chatbot Output](screenshots/output.png)
